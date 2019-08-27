@@ -11,7 +11,7 @@ function createWindow(){
     webPreferences: {
       nodeIntegration: true
     }
-}); // create window
+}); 
 
 
   // load up html
